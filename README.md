@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-yiran-zhou&show_icons=true&locale=en&layout=compact" alt="kevin-yiran-zhou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-yiran-zhou&show_icons=true&locale=en" alt="kevin-yiran-zhou" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-yiran-zhou&" alt="kevin-yiran-zhou" /></p>
