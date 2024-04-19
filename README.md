@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-yiran-zhou&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-yiran-zhou" /> </p>
 
-- 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
+- 🎓 NYU '24 B.S. in Mathematics | UMich '26 M.S. in Robotics
 
 - 🔭 I’m currently working on [UNav](https://github.com/endeleze/UNav)
 
