@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1138875/screenshots/4432385/roboto_animation_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-yiran-zhou&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-yiran-zhou" /> </p>
-
 - 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
 
 - 🔭 I’m currently working on [UNav](https://github.com/endeleze/UNav)
@@ -12,7 +10,7 @@
 
 - ❤️ I love 🗺️ travelling 🏃‍♂️ long distance running 📷 photography
 
-- 📫 How to reach me **yz6878@nyu.edu | yrzhou@umich.edu**
+- 📫 How to reach me: **yz6878@nyu.edu | yrzhou@umich.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
