@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Zhou</h1>
 <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1138875/screenshots/4432385/roboto_animation_dribbble.gif](https://i.gifer.com/Dqou.gif">
+<img align="right" alt="Coding" width="320" src="https://i.gifer.com/Dqou.gif">
 
 - 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
 
