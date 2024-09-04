@@ -4,13 +4,11 @@
 
 - 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
 
-- 🔭 I’m currently working on [UNav](https://github.com/endeleze/UNav)
-
 - 🌱 I’m currently learning **Robotics and Computer Vision**
 
 - ❤️ I love 🗺️ travelling 🏃‍♂️ long distance running 📷 photography
 
-- 📫 How to reach me: **yz6878@nyu.edu | yrzhou@umich.edu**
+- 📫 How to reach me: **yrzhou@umich.edu | yz6878@nyu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
