@@ -10,6 +10,8 @@
 
 - 📫 How to reach me: **yrzhou@umich.edu | yz6878@nyu.edu**
 
+- 🔗 [My personal website](https://sites.google.com/view/kevin-yiran-zhou)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kevin-yiran-zhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-yiran-zhou" height="30" width="40" /></a>
