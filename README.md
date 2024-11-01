@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kevin Zhou</h1>
 <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
-<img align="right" alt="Coding" width="320" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig">
+<img align="right" alt="Coding" width="320" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif">
 
 - 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
 
+- 🔍 I'm currentlt a Lab Assistant at [**BioElectronic Vision Lab**](https://weilandresearch.bme.umich.edu/) in UMich
+
 - 🌱 I’m currently learning **Robotics and Computer Vision**
 
-- ❤️ I love 🗺️ travelling 🏃‍♂️ long distance running 📷 photography
+- ❤️ I love travelling 🗺️, long distance running 🏃‍♂️, photography 📷 
 
 - 📫 How to reach me: **yrzhou@umich.edu | yz6878@nyu.edu**
 
-- 🔗 [My personal website](https://sites.google.com/view/kevin-yiran-zhou)
+- 🔗 [**My personal website**](https://sites.google.com/view/kevin-yiran-zhou)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
