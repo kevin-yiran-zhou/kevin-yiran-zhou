@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science and Robotics Enthusiast</h3>
 <img align="right" alt="Coding" width="320" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Sm.gif">
 
-- 🎓 NYU 2024er B.S. in Mathematics | UMich 2026er M.S. in Robotics
+- 🎓 UMich 2026er M.S. in Robotics | NYU 2024er B.S. in Mathematics
 
 - 🔍 I'm currentlt a Lab Assistant at [**BioElectronic Vision Lab**](https://weilandresearch.bme.umich.edu/) in UMich
 
