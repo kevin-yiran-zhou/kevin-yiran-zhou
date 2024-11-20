@@ -4,7 +4,7 @@
 
 - 🎓 UMich 2026er M.S. in Robotics | NYU 2024er B.S. in Mathematics
 
-- 🔍 I'm currentlt a Lab Assistant at [**BioElectronic Vision Lab**](https://weilandresearch.bme.umich.edu/) in UMich
+- 🔍 I'm currentlt a Lab Assistant in [**BioElectronic Vision Lab**](https://weilandresearch.bme.umich.edu/) at UMich
 
 - 🌱 I’m currently learning **Robotics and Computer Vision**
 
